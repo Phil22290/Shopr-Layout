@@ -1,0 +1,2 @@
+# Shopr-Layout
+Shopr-LayoutOnly
